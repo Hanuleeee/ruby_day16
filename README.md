@@ -10,7 +10,7 @@
 
 `$ rails _5.0.7_ new watcha`
 
-`$ rails g scaffold movies` : movies controller와 movie model이 생성됨
+`$ rails g scaffold movies` : movies controller와 movie model이 생성된다.
 
 '*routes*'  `root 'movies#index' `  추가
 
@@ -162,6 +162,7 @@ end
   
 
 지난번에 한 **Image Uploader** 참고해보자
+
 
 
 
